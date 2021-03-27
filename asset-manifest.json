@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arads7420/breeze-weather/static/css/main.d94b6136.chunk.css",
+    "main.js": "/arads7420/breeze-weather/static/js/main.4e6a7172.chunk.js",
+    "main.js.map": "/arads7420/breeze-weather/static/js/main.4e6a7172.chunk.js.map",
+    "runtime-main.js": "/arads7420/breeze-weather/static/js/runtime-main.88df7138.js",
+    "runtime-main.js.map": "/arads7420/breeze-weather/static/js/runtime-main.88df7138.js.map",
+    "static/js/2.cbf41295.chunk.js": "/arads7420/breeze-weather/static/js/2.cbf41295.chunk.js",
+    "static/js/2.cbf41295.chunk.js.map": "/arads7420/breeze-weather/static/js/2.cbf41295.chunk.js.map",
+    "static/js/3.0db2d46b.chunk.js": "/arads7420/breeze-weather/static/js/3.0db2d46b.chunk.js",
+    "static/js/3.0db2d46b.chunk.js.map": "/arads7420/breeze-weather/static/js/3.0db2d46b.chunk.js.map",
+    "index.html": "/arads7420/breeze-weather/index.html",
+    "static/css/main.d94b6136.chunk.css.map": "/arads7420/breeze-weather/static/css/main.d94b6136.chunk.css.map",
+    "static/js/2.cbf41295.chunk.js.LICENSE.txt": "/arads7420/breeze-weather/static/js/2.cbf41295.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88df7138.js",
+    "static/js/2.cbf41295.chunk.js",
+    "static/css/main.d94b6136.chunk.css",
+    "static/js/main.4e6a7172.chunk.js"
+  ]
+}
